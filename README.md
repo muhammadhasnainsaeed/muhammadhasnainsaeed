@@ -1,7 +1,7 @@
 
 # Hi 👋🏻, I'm Hasnain Saeed
 
-As a dedicated **`Frontend Developer`** with **`4 years`** of hands-on experience, I bring a wealth of expertise in crafting dynamic and responsive user interfaces. My proficiency spans a range of cutting-edge technologies, libraries and frameworks.
+As a dedicated Frontend Developer, I bring strong expertise in building modern, responsive, and user-focused web applications. I specialize in React, Vue, Next.js, and Nuxt.js, with a solid understanding of backend technologies like Node.js and MongoDB. My experience spans designing intuitive interfaces, optimizing performance, and developing scalable full-stack solutions.
 
 
 ## ⚙️ Tech Stack
