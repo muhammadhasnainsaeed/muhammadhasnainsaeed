@@ -6,7 +6,7 @@ As a dedicated **`Frontend Developer`** with **`4 years`** of hands-on experienc
 
 ## ⚙️ Tech Stack
 
-**Languages:** `Javascript`, `C#`.
+**Languages:** `Javascript`, `Typescript`.
 
 **Client:** `React`, `Vue`, `Nuxt`, `Next`, `Pinia`, `Redux`, `Tailwind`, `SASS`, `CSS`, `HTML`, `GSAP`.
 
