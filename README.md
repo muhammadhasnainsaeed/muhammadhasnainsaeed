@@ -49,17 +49,17 @@ I’m a frontend-focused engineer building **real-world applications** with a fo
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhasnainsaeed&theme=monokai" width="100%" alt="Hasnain saeed profile details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhasnainsaeed&theme=monokai" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhasnainsaeed&theme=monokai&show_icons=true&hide_border=true&count_private=true" width="49%" alt="Hasnain saeed contribution details" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammadhasnainsaeed&theme=monokai&hide_border=true&short_numbers=true&card_height=197" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhasnainsaeed&theme=monokai&show_icons=true&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhasnainsaeed&theme=monokai&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadhasnainsaeed&theme=monokai" width="49%" alt="most commit language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadhasnainsaeed&theme=monokai" width="49%" alt="repos per language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadhasnainsaeed&theme=monokai" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadhasnainsaeed&theme=monokai" width="49%" />
 </p>
 
 ---
