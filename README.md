@@ -1,39 +1,99 @@
-<h1 align="center">Hi there, I'm Hasnain Saeed 👋</h1>
+<h1 align="center">Hi 👋, I'm Hasnain Saeed</h1>
 
-### 💬 Ask me about
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Software+Engineer;React+Developer;Building+Scalable+Frontend+Systems;Always+Learning+%F0%9F%9A%80" />
+</p>
 
-* React, React Native, Vue, Typescript, JavaScript & modern frontend development
-* Building real-world UI applications
-* Real-time apps
-* Frontend architecture & performance
-* Exploring AI-powered applications
+<h3 align="center">⚛️ React • 🧠 JavaScript • 🚀 Scalable Frontend Systems</h3>
 
 ---
 
-### 🌱 I’m currently learning
+## 🧠 About Me
 
-* Data Structures & Algorithms
-* Scalable frontend architecture
-* System design fundamentals
+I’m a frontend-focused engineer building **real-world applications** with a focus on:
 
----
-
-### 🚀 What I'm working on
-
-* 💬 Scalable Chat Application (real-time focus)
-* 🤖 AI-based apps (habit tracking, experiments)
-* 🌐 Practical apps solving real-world problems
+* ⚛️ Scalable React architecture
+* 🧠 Strong JavaScript fundamentals
+* 💬 Real-time systems (chat apps)
+* 🤖 AI-powered ideas
+* ⚡ Performance & clean code
 
 ---
 
-### 📫 How to reach me
+## 🚀 Featured Focus
 
-* GitHub: https://github.com/muhammadhasnainsaeed
+* 💬 **Scalable Chat Application** (real-time + architecture)
+* 🤖 **AI Habit Tracker** (AI + frontend experimentation)
+* 🌐 **Practical UI Apps** solving real-world problems
 
 ---
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhasnainsaeed&theme=monokai)
-![muhammadhasnainsaeed's Stats](https://github-readme-stats.vercel.app/api?username=muhammadhasnainsaeed&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-![muhammadhasnainsaeed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadhasnainsaeed&theme=monokai&hide_border=true)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadhasnainsaeed&theme=monokai)
-![Most Repo Lanauage](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadhasnainsaeed&theme=monokai)
+## 💬 Ask Me About
+
+* React & modern frontend development
+* JavaScript deep concepts (closures, async, event loop)
+* Real-time apps (WebSockets, chat systems)
+* Frontend architecture & scalability
+* AI + frontend integrations
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhasnainsaeed&theme=monokai" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhasnainsaeed&theme=monokai&show_icons=true&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhasnainsaeed&theme=monokai&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadhasnainsaeed&theme=monokai" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadhasnainsaeed&theme=monokai" width="49%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadhasnainsaeed/muhammadhasnainsaeed/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🌱 Currently Leveling Up
+
+* 🧠 Data Structures & Algorithms
+* ⚙️ System Design Fundamentals
+* 🚀 Scalable Application Architecture
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://github.com/muhammadhasnainsaeed">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## ⚡ Mindset
+
+> I don’t just build projects — I build systems, improve consistently, and think long-term.
+
+---
+
+⭐️ Always building. Always improving.
