@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Hasnain Saeed 👋</h1>
 
----
-
 ### 💬 Ask me about
 
 * React, React Native, Vue, Typescript, JavaScript & modern frontend development
@@ -34,8 +32,8 @@
 
 ---
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhasnainsaeed&theme=2077)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadhasnainsaeed&theme=2077)
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadhasnainsaeed&theme=dark)](https://git.io/streak-stats)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadhasnainsaeed&theme=2077)
-![Most Repo Lanauage](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadhasnainsaeed&theme=2077)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhasnainsaeed&theme=monokai)
+![muhammadhasnainsaeed's Stats](https://github-readme-stats.vercel.app/api?username=muhammadhasnainsaeed&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![muhammadhasnainsaeed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadhasnainsaeed&theme=monokai&hide_border=true)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadhasnainsaeed&theme=monokai)
+![Most Repo Lanauage](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadhasnainsaeed&theme=monokai)
