@@ -54,7 +54,7 @@ I’m a frontend-focused engineer building **real-world applications** with a fo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadhasnainsaeed&theme=monokai&show_icons=true&hide_border=true&count_private=true" width="49%" alt="Hasnain saeed contribution details" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhasnainsaeed&theme=monokai&hide_border=true&card_height=140.5" width="49%" alt="Hasnain saeed streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhasnainsaeed&theme=monokai&hide_border=true" width="49%" height="auto" alt="Hasnain saeed streaks" />
 </p>
 
 <p align="center">
