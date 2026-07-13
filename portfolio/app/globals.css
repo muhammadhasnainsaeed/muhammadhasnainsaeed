@@ -92,6 +92,7 @@
   --sidebar-ring: oklch(0.708 0 0);
   --background: oklch(1 0 0);
   --foreground: oklch(0.145 0 0);
+  --accent-blue: oklch(0.55 0.19 255);
 }
 
 .dark {
@@ -142,4 +143,10 @@
   html {
     @apply font-sans;
   }
+}
+
+@utility text-hero {
+  font-weight: 700;
+  letter-spacing: -0.045em;
+  line-height: 0.95;
 }

@@ -16,6 +16,7 @@ function Navlink({ children, ...props }: NavLinkProps) {
       className={buttonVariants({
         variant: "ghost",
         className: "rounded-sm",
+        size: "sm",
       })}
     >
       {children}
@@ -29,7 +30,7 @@ function Navbar() {
       className="sticky top-0 z-50 bg-background"
       stuckClassName="border-b backdrop-blur"
     >
-      <header className="item-center flex w-full justify-between px-4 py-3">
+      <header className="item-center flex w-full justify-between px-4 py-2">
         <Link href={"/"}>
           <Image
             src={logo}

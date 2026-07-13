@@ -153,26 +153,24 @@ function Tools() {
 function About() {
   return (
     <>
-      <section className="px-6 py-32">
-        <div className="mx-auto max-w-7xl">
-          <div className="flex flex-col gap-8 lg:flex-row lg:items-start">
-            <h2 className="text-sm font-medium tracking-widest text-primary uppercase lg:w-1/3">
-              About
-            </h2>
-            <p className="max-w-[52ch] text-lg leading-relaxed font-medium text-pretty text-foreground lg:text-xl">
-              I&apos;m Hasnain Saeed, a Full Stack Software Engineer with 4+
-              years of experience designing and building scalable SaaS
-              platforms, AI-powered applications, and high-performance web
-              products. I specialize in React, Next.js, Node.js, TypeScript, and
-              cloud technologies, with a strong focus on clean architecture,
-              exceptional user experiences, and delivering production-ready
-              solutions that scale.
-            </p>
-          </div>
+      <div className="container mx-auto px-6 py-8 md:py-16">
+        <div className="flex flex-col gap-8 lg:flex-row lg:items-start">
+          <h2 className="text-sm font-medium tracking-widest text-primary uppercase lg:w-1/3">
+            About
+          </h2>
+          <p className="max-w-[52ch] text-lg leading-relaxed font-medium text-pretty text-foreground lg:text-xl">
+            I&apos;m Hasnain Saeed, a Full Stack Software Engineer with 4+ years
+            of experience designing and building scalable SaaS platforms,
+            AI-powered applications, and high-performance web products. I
+            specialize in React, Next.js, Node.js, TypeScript, and cloud
+            technologies, with a strong focus on clean architecture, exceptional
+            user experiences, and delivering production-ready solutions that
+            scale.
+          </p>
         </div>
-      </section>
-      <p className="mb-2 text-center text-sm text-muted-foreground">
-        Building with modern technologies.
+      </div>
+      <p className="mb-5 text-center text-sm text-muted-foreground">
+        Tech I work with
       </p>
       <Tools />
     </>

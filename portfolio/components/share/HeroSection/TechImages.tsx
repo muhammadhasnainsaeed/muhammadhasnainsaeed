@@ -28,24 +28,13 @@ function TechImages() {
     { name: "Tailwind CSS", iconfile: TailwindcssIcon },
     { name: "Sass", iconfile: SassIcon },
     { name: "Three.js", iconfile: ThreejsIcon },
-
-    { name: "Python", iconfile: PythonIcon },
-    { name: "Javascript", iconfile: JavascriptIcon },
-    { name: "Typescript", iconfile: TypescriptIcon },
-    { name: "Node.js", iconfile: NodesjLogo },
-    { name: "React", iconfile: ReactIcon },
-    { name: "Next.js", iconfile: NextjsIcon },
-    { name: "Vue", iconfile: VueIcon },
-    { name: "Nuxt.js", iconfile: NuxtIcon },
-    { name: "Expo", iconfile: ExpoIcon },
-    { name: "Tailwind CSS", iconfile: TailwindcssIcon },
-    { name: "Sass", iconfile: SassIcon },
-    { name: "Three.js", iconfile: ThreejsIcon },
   ]
 
+  const techIcons = [...techStack, ...techStack]
+
   return (
-    <ul className="flex-start mb-10 flex max-w-full items-center gap-10 overflow-hidden py-6 pl-6">
-      {techStack.map((f, i) => (
+    <ul className="flex-start flex max-w-full items-center gap-10 pl-6">
+      {techIcons.map((f, i) => (
         <li className="flex transform items-center" key={i}>
           <Image
             src={f.iconfile}
