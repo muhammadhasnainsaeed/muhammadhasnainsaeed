@@ -2,7 +2,7 @@ import { ArrowRight, Pause, Search, Square } from "lucide-react"
 
 function TerminalMock() {
   return (
-    <div className="rounded-3xl bg-[#f5efe6] p-6 sm:p-10">
+    <div className="rounded-3xl bg-[#f5efe6] p-6 sm:p-8">
       <div className="mx-auto max-w-sm rounded-[32px] bg-white p-4 shadow-xl ring-1 ring-black/5">
         <div className="rounded-2xl bg-neutral-900 p-4 font-mono text-[12px] text-neutral-100">
           <p className="text-emerald-400">~ alex@prod $ deploy checkout</p>
@@ -29,7 +29,7 @@ function TerminalMock() {
 
 function CodeSearchMock() {
   return (
-    <div className="rounded-3xl bg-[#eaf3ff] p-6 sm:p-10">
+    <div className="rounded-3xl bg-[#eaf3ff] p-6 sm:p-8">
       <div className="rounded-2xl bg-white p-5 shadow-sm ring-1 ring-black/5">
         <div className="flex items-center gap-2 border-b border-border pb-3">
           <Search className="h-4 w-4 text-muted-foreground" />
@@ -66,7 +66,7 @@ function CodeSearchMock() {
 
 function OncallMock() {
   return (
-    <div className="rounded-3xl bg-[#e8f3ec] p-6 sm:p-10">
+    <div className="rounded-3xl bg-[#e8f3ec] p-6 sm:p-8">
       <div className="rounded-2xl bg-white p-5 shadow-sm ring-1 ring-black/5">
         <div className="flex items-center justify-between">
           <div>
@@ -123,11 +123,11 @@ function Services() {
     },
   ]
   return (
-    <section className="container mx-auto px-6 py-16 md:py-28">
-      <h2 className="max-w-3xl text-4xl text-hero sm:text-6xl md:text-7xl">
+    <section className="mx-auto max-w-6xl px-6 py-16 md:py-16">
+      <h2 className="text-4xl leading-[1.2]! font-bold tracking-tight sm:text-5xl md:text-6xl">
         What I bring to your team.
       </h2>
-      <div className="mt-16 grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-3">
+      <div className="mt-16 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
         {cards.map((c) => (
           <div key={c.tag} className="flex flex-col">
             {c.mock}

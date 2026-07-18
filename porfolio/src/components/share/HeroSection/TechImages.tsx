@@ -1,4 +1,4 @@
-import { Image } from "astro:assets"
+import { Marquee } from "../Marquee"
 
 const ExpoIcon = "/heroImages/tech_icons/Expo-Icon--Streamline-Svg-Logos.svg"
 const JavascriptIcon =
@@ -38,20 +38,21 @@ function TechImages() {
   const techIcons = [...techStack, ...techStack]
 
   return (
-    <ul className="flex-start flex max-w-full items-center gap-10 pl-6">
-      {techIcons.map((f, i) => (
-        <li className="flex transform items-center" key={i}>
-          <img
-            src={f.iconfile}
-            alt={f.name}
-            width={10}
-            height={10}
-            className="aspect-square h-10 w-10 min-w-10 origin-center transition duration-150 hover:scale-125 dark:mix-blend-luminosity dark:invert"
-          />
-        </li>
-      ))}
-      {}
-    </ul>
+    <Marquee speed={60}>
+      <ul className="flex-start flex max-w-full items-center gap-10 pl-10 md:gap-14 md:pl-14">
+        {techIcons.map((f, i) => (
+          <li className="flex transform items-center" key={i}>
+            <img
+              src={f.iconfile}
+              alt={f.name}
+              width={32}
+              height={32}
+              className="aspect-square h-8 w-8 min-w-8 origin-center transition duration-150 hover:scale-125 dark:mix-blend-luminosity dark:invert"
+            />
+          </li>
+        ))}
+      </ul>
+    </Marquee>
   )
 }
 

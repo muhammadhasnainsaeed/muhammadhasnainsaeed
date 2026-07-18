@@ -2,10 +2,19 @@ import { Button, buttonVariants } from "../ui/button"
 import React from "react"
 import { StickyContainer } from "./StickyContainer"
 import { ModeToggle } from "./ModToggle"
+import { Download } from "lucide-react"
 
 type NavLinkProps = React.ComponentProps<"a"> & {
   children: React.ReactNode
 }
+
+const links = [
+  { name: "Home", link: "/" },
+  { name: "About", link: "/about" },
+  { name: "Experience", link: "/experience" },
+  { name: "Blogs", link: "/blogs" },
+  { name: "Contact", link: "/contact" },
+]
 
 function Navlink({ children, ...props }: NavLinkProps) {
   return (
@@ -28,27 +37,23 @@ function Navbar() {
       className="sticky top-0 z-50 bg-background"
       stuckClassName="border-b backdrop-blur"
     >
-      <header className="item-center flex w-full justify-between px-4 py-2">
-        <a href={"/"}>
-          <img
-            src="/logo.webp"
-            alt="Logo"
-            width={120}
-            height={36}
-            className="h-10 w-26 dark:invert"
-          />
+      <header className="item-center mx-auto flex w-full max-w-6xl justify-between px-6 py-2">
+        <a href={"/"} className="text-xl font-black">
+          Hasnain
         </a>
-        <nav className="flex items-center gap-2">
-          <Navlink href={"/"}>Home</Navlink>
-          <Navlink href={"/about"}>About</Navlink>
-          <Navlink href={"/contact"}>Contact</Navlink>
-        </nav>
-        <div className="flex items-center gap-2">
-          <Button className="h-10 w-30 rounded-lg text-center" size={"lg"}>
+
+        <nav className="flex w-full items-center justify-end gap-2">
+          {links.map((link, index) => (
+            <Navlink key={index} href={link.link}>
+              {link.name}
+            </Navlink>
+          ))}
+          <Button className="rounded-lg text-center" size={"lg"}>
+            <Download className="h-[1.2rem] w-[1.2rem]" />
             Resume
           </Button>
           <ModeToggle />
-        </div>
+        </nav>
       </header>
     </StickyContainer>
   )

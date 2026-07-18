@@ -1,25 +1,18 @@
 ---
 import Layout from "@/layouts/main.astro"
-import { Button } from "@/components/ui/button"
 import HeroSection from "@/components/share/HeroSection"
-import About from "@/components/share/about"
 import HowIWork from "@/components/share/HowIWork"
-import Services from "@/components/share/Services"
-import Portfolio from "@/components/share/Portfolio"
 import Testimonials from "@/components/share/Testimonials"
+import FeatureProjects from "@/components/share/FeatureProjects"
 import CTA from "@/components/share/CTA"
 ---
 
 <Layout>
   <HeroSection />
-  <About />
+  <HowIWork />
   <div class="bg-primary-foreground">
-    <HowIWork />
-    <Services />
-    <Portfolio />
+    <FeatureProjects />
+    <!-- <Testimonials /> -->
   </div>
-  <Testimonials />
-  <div class="bg-primary-foreground">
-    <CTA />
-  </div>
+  <CTA />
 </Layout>

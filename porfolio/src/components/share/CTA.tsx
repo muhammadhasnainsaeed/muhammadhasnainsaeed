@@ -1,25 +1,32 @@
+import { buttonVariants } from "../ui/button"
+
 function CTA() {
   return (
-    <section className="container mx-auto px-6 py-24 text-center">
-      <h2 className="text-5xl text-hero sm:text-7xl md:text-8xl">
-        Let's build something.
+    <section className="mx-auto max-w-6xl px-6 py-24 text-center">
+      <h2 className="text-4xl font-semibold tracking-tight text-balance text-zinc-900 sm:text-6xl">
+        Let's build something meaningful.
       </h2>
-      <div className="mt-10 flex flex-col items-center justify-center gap-5 sm:flex-row sm:gap-10">
+      <p className="mx-auto mt-6 mb-5 max-w-[48ch] text-lg text-zinc-600">
+        Currently open to senior engineering roles and high-impact consulting
+        engagements.
+      </p>
+      <div className="mt-5 flex items-center justify-center gap-5">
         <a
-          href="https://github.com/muhammadhasnainsaeed"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="rounded-lg bg-foreground px-6 py-3 text-sm font-medium text-background hover:opacity-90"
+          href="/contact"
+          className={buttonVariants({
+            size: "lg",
+          })}
         >
-          GitHub
+          Start a project
         </a>
         <a
-          href="https://linkedin.com/in/muhammadhasnainsaeed"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-sm font-medium text-(--accent-blue)"
+          href="/experience"
+          className={buttonVariants({
+            size: "lg",
+            variant: "secondary",
+          })}
         >
-          Connect on LinkedIn →
+          See my journey →
         </a>
       </div>
     </section>

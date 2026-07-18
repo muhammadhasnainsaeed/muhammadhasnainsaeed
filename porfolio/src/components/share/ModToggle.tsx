@@ -62,7 +62,7 @@ export function ModeToggle() {
       }
       className="inline-flex h-9 w-9 rounded-lg"
       aria-label="Toggle theme"
-      size={"sm"}
+      size={"icon-sm"}
       variant={"ghost"}
     >
       {theme === "dark" ? (

@@ -1,8 +1,8 @@
-import { ArrowRight } from "lucide-react"
+import { ArrowRight, ToolCase } from "lucide-react"
 
 function RfcMock() {
   return (
-    <div className="rounded-3xl bg-[#fff4e6] p-6 sm:p-10">
+    <div className="rounded-3xl bg-[#fff4e6] p-6 sm:p-8">
       <div className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-black/5">
         <h4 className="text-xl font-bold">RFC-042 · Multi-region writes</h4>
         <div className="mt-3 space-y-1 text-xs">
@@ -36,14 +36,17 @@ function RfcMock() {
 
 function StackMock() {
   return (
-    <div className="rounded-3xl bg-[#eef1ff] p-6 sm:p-10">
+    <div className="rounded-3xl bg-[#eef1ff] p-6 sm:p-8">
       <div className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-black/5">
-        <div className="mb-4 h-28 rounded-xl bg-linear-to-br from-indigo-400 to-sky-400" />
-        <h4 className="text-xl font-bold">Tools I reach for 🛠️</h4>
+        <div className="mb-4 h-26 rounded-xl bg-linear-to-br from-indigo-400 to-sky-400" />
+        <h4 className="inline-flex items-center text-xl font-bold">
+          Tools I reach for
+          <ToolCase className="ml-2" />
+        </h4>
         <p className="mt-2 text-[13px] text-foreground/80">
           A pragmatic stack, chosen for the shape of the problem.
         </p>
-        <div className="mt-4 grid grid-cols-2 gap-3 text-[13px]">
+        <div className="mt-4 grid grid-cols-2 gap-2 text-[12px]">
           <div>
             <p className="font-semibold">Backend</p>
             <ul className="mt-1 space-y-0.5 text-foreground/70">
@@ -70,7 +73,7 @@ function StackMock() {
 
 function ProjectsMock() {
   return (
-    <div className="rounded-3xl bg-[#ffece8] p-6 sm:p-10">
+    <div className="rounded-3xl bg-[#ffece8] p-6 sm:p-8">
       <div className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-black/5">
         <h4 className="text-lg font-semibold">Selected shipped work</h4>
         <div className="mt-4 space-y-2 text-[13px]">
@@ -133,11 +136,11 @@ function Portfolio() {
     },
   ]
   return (
-    <section className="container mx-auto px-6 py-16 md:py-28">
-      <h2 className="max-w-3xl text-4xl text-hero sm:text-6xl md:text-7xl">
+    <section className="mx-auto max-w-6xl px-6 py-16 md:py-16">
+      <h2 className="text-4xl leading-[1.2]! font-bold tracking-tight sm:text-5xl md:text-6xl">
         A decade of shipped work.
       </h2>
-      <div className="mt-16 grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-3">
+      <div className="mt-16 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
         {cards.map((c) => (
           <div key={c.tag} className="flex flex-col">
             {c.mock}
@@ -148,7 +151,7 @@ function Portfolio() {
               </h3>
               <a
                 href="#"
-                className="mt-4 inline-flex items-center gap-2 text-sm font-medium text-[color:var(--accent-blue)]"
+                className="mt-4 inline-flex items-center gap-2 text-sm font-medium text-blue-400"
               >
                 Read more <ArrowRight className="h-4 w-4" />
               </a>
