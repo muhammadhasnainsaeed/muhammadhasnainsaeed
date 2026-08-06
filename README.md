@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasnain Saeed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Software+Engineer;React+Developer;Building+Scalable+Frontend+Systems;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Software+Engineer;Typescript+Engineer;Building+Scalable+Architecture;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 <h3 align="center">⚛️ React • 🧠 JavaScript • 🚀 Scalable Frontend Systems</h3>
@@ -12,29 +12,29 @@
 
 I’m a frontend-focused engineer building **real-world applications** with a focus on:
 
-* ⚛️ Scalable React architecture
-* 🧠 Strong JavaScript fundamentals
-* 💬 Real-time systems (chat apps)
-* 🤖 AI-powered ideas
-* ⚡ Performance & clean code
+- ⚛️ Scalable React architecture
+- 🧠 Strong JavaScript fundamentals
+- 💬 Real-time systems (chat apps)
+- 🤖 AI-powered ideas
+- ⚡ Performance & clean code
 
 ---
 
 ## 🚀 Featured Focus
 
-* 💬 **Scalable Chat Application** (real-time + architecture)
-* 🤖 **AI Habit Tracker** (AI + frontend experimentation)
-* 🌐 **Practical UI Apps** solving real-world problems
+- 💬 **Scalable Chat Application** (real-time + architecture)
+- 🤖 **AI Habit Tracker** (AI + frontend experimentation)
+- 🌐 **Practical UI Apps** solving real-world problems
 
 ---
 
 ## 💬 Ask Me About
 
-* React & modern frontend development
-* JavaScript deep concepts (closures, async, event loop)
-* Real-time apps (WebSockets, chat systems)
-* Frontend architecture & scalability
-* AI + frontend integrations
+- React & modern frontend development
+- JavaScript deep concepts (closures, async, event loop)
+- Real-time apps (WebSockets, chat systems)
+- Frontend architecture & scalability
+- AI + frontend integrations
 
 ---
 
@@ -74,9 +74,9 @@ I’m a frontend-focused engineer building **real-world applications** with a fo
 
 ## 🌱 Currently Leveling Up
 
-* 🧠 Data Structures & Algorithms
-* ⚙️ System Design Fundamentals
-* 🚀 Scalable Application Architecture
+- 🧠 Data Structures & Algorithms
+- ⚙️ System Design Fundamentals
+- 🚀 Scalable Application Architecture
 
 ---
 
